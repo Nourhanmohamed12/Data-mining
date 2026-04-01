@@ -195,7 +195,7 @@ graph TD
 
 ```bash id="k2a9qp"
 # Clone repository
-git clone https://github.com/your-username/cafe-analytics.git
+git clone https://github.com/Nourhanmohamed12/Data-mining.git
 cd cafe-analytics
 ```
 
